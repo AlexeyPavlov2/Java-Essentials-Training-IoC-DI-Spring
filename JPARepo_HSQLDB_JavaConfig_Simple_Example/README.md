@@ -1,0 +1,1 @@
+### Simple example - Spring JPARepository, Hibernate, HSQLDB, Java Config
