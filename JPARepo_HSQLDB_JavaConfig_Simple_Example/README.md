@@ -1,1 +1,1 @@
-# # Simple example - Spring JPARepository, Hibernate, HSQLDB, Java Config
+### Simple example - Spring JPARepository, Hibernate, HSQLDB, Java Config
